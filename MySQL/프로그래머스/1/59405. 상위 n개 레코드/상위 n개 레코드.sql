@@ -1,0 +1,6 @@
+-- 코드를 입력하세요
+# 날짜 정렬이 중요
+SELECT NAME
+FROM ANIMAL_INS
+ORDER BY DATETIME
+LIMIT 1;
